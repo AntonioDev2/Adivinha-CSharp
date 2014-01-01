@@ -14,3 +14,5 @@ O segundo casal de numeros do resultado [no caso 10] é a multiplicação do primei
 10 = 5 x 2
 O terceiro casal de numeros do resultado [no caso 22] é a soma dos resultados acima subtraidos pelo segundo numero
 22 = 15 + 10 - 3
+
+by Antônio
